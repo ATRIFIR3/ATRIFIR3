@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming
 - 📫 Reach me on instagram @atrisayoud
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy playing games
+- ⚡ Fun fact: I enjoy playing PC games
 
 <!---
 ATRIFIR3/ATRIFIR3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
